@@ -1,2 +1,1 @@
-# DFT
-DFT algorithms
+CMU 18765 projects
